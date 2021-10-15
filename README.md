@@ -1,3 +1,6 @@
+#github repo: https://github.com/berlaewald/SymbolTable
+
+
 # SymbolTable 
   - Uses HashTable
   - HashTable size is constant
@@ -14,4 +17,3 @@
 ## get(position)
   - Post: return the token from a given position or -1 if it doesn't exist
 
-#github repo: https://github.com/berlaewald/SymbolTable
